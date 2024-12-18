@@ -62,5 +62,3 @@ Una aplicación para gestionar tus finanzas personales y mantener el control en 
 > **"Great success demands great dreams."**  
 
 --- 
-
-Este diseño está más limpio, organizado y fácil de leer. ¡Es perfecto para destacar en GitHub! 😊
